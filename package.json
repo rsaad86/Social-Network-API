@@ -1,0 +1,28 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Social Network API",
+  "main": "Server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsaad86/Social-Network-API.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "RSAAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsaad86/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/rsaad86/Social-Network-API#readme"
+}
